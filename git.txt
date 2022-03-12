@@ -1,0 +1,3 @@
+اشحن git add .
+وصل git commit -m "changes here"
+ارفع git push origin master
